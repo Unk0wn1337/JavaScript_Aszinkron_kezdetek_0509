@@ -1,0 +1,16 @@
+{
+    "termekLISTA": [
+        {
+            "nev": "Cipo",
+            "szin": "feher"
+        },
+        {
+            "nev": "Kabat",
+            "szin": "fekete"
+        },
+        {
+            "nev": "Nadrag",
+            "szin": "zöld"
+        }
+    ]
+}
